@@ -9,7 +9,7 @@ Based on 5V Cortex-M0+ 48MHz [Microchip SAM C2x family](https://www.microchip.co
 
 - [X] Connectivity check
 - [X] PCB Layout
-- [ ] GRBL Porting
+- [X] [rSamba](https://github.com/kimstik/rSamba) bootloader
+- [ ] [GRBL](https://github.com/gnea/grbl) Porting
 
-### Related projects
-[GRBL](https://github.com/gnea/grbl)
+
