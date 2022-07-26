@@ -14,6 +14,8 @@ Based on 5V Cortex-M0+ 48MHz [Microchip SAM C2x family](https://www.microchip.co
 
 ### Pinout
 ```
+Atmega328p -> ATSAMC21E18A-MZ
+
 		pin	pin	port
 	#	AVR	ARM #	
 	D3	1	25	27	Ystp
